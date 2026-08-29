@@ -34,5 +34,8 @@ public class Empleados {
     public void setPuesto(String puesto){
         this.puesto = puesto;
     }
+    public void trabajar(){
+        System.out.println("Empleado trabajando");
+    }
     
 }
